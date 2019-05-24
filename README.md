@@ -27,6 +27,8 @@ Oh, thats great. Easy steps to achieve that.
 
 Well, we need to buy pizza in diferent places in order to "reverse engineer" how the diferent web platforms works. So... donating to the cause will let us buy pizza and coffe to continue developing.
 
+https://www.patreon.com/elchicodepython
+
 ### Developing new modules
 
 You can develop new modules for new Pizza shops.
